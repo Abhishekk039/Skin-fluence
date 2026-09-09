@@ -2,6 +2,16 @@
 
 **AI-Powered Skin Analysis & Personalized Skincare Assistant**
 
+## 📸 Project Screenshots
+
+
+![Home](./Screenshot%202025-03-28%20110335.png)
+
+
+![Skin Analysis](./Screenshot%202025-03-28%20110441.png)
+
+![Results](./Screenshot%202025-03-28%20110927.png)
+
 SkinFluence is an AI-powered skincare platform that analyzes skin images and provides personalized insights and recommendations. The system combines computer vision and intelligent analysis to help users understand their skin condition and build a more informed skincare routine.
 
 ## ✨ Features
